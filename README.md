@@ -1,5 +1,5 @@
 ##  Beginner Portfolio Projects
-=======================
+===============================
 
 This is a repository for all the beginner friendly vanilla JavaScript projects.
 Most of them are inspired by other Programmers and a few which are just custom.
